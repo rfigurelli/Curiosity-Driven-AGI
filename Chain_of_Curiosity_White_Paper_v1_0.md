@@ -96,23 +96,23 @@ Together, they catalyze AGI evolution.**
 
 ## 6. Relationship to the Chain of Curiosity Book Series
 
-The ideas presented here are deeply connected to the author's published trilogy:
+The concepts presented in this framework are deeply connected to the author's published trilogy:
 
 - **Chain of Curiosity: A New Approach to Artificial General Intelligence** (Book 1)  
-  Explores the core concept of embedding curiosity as a driver for intelligent systems beyond static reasoning.
-  (https://a.co/d/6irljrE)
+  Introduces the foundational idea of embedding curiosity as a primary driver for intelligent systems, moving beyond static reasoning.  
+  [Read on Amazon](https://a.co/d/6irljrE)
 
 - **Quantum Curiosity: The Intersection of Quantum Mechanics and Curiosity-Driven AI** (Book 2)  
-  Examines how quantum phenomena like uncertainty and superposition offer models for accelerating curiosity-based exploration in AI.
-  (https://a.co/d/hUYgBv1)
+  Explores how quantum principles such as uncertainty, superposition, and entanglement can serve as models to amplify curiosity-based exploration in AI.  
+  [Read on Amazon](https://a.co/d/hUYgBv1)
 
 - **Curiosity and Chaos Theory: Bridging the Gap Between Order and Disorder** (Book 3)  
-  Investigates how curiosity-driven intelligence can decode complex, chaotic systems and navigate uncertainty with resilience.
-  (https://a.co/d/cYMho9k)
-  
-These books establish the **theoretical foundation**, **philosophical principles**, and **practical possibilities** for Chain of Curiosity AGI.
+  Investigates how curiosity-driven intelligence can decode complex, chaotic systems, adapt to unpredictable environments, and transform disorder into meaningful knowledge.  
+  [Read on Amazon](https://a.co/d/cYMho9k)
 
-They extend the framework into multidisciplinary frontiers, including quantum mechanics, complexity theory, and systems evolution.
+Together, these books provide the **theoretical foundation**, **philosophical underpinnings**, and **practical frameworks** for realizing Curiosity-Driven AGI.
+
+They extend the Chain of Curiosity approach into multidisciplinary frontiers, including quantum mechanics, complexity theory, and dynamic systems evolution.
 
 ---
 
