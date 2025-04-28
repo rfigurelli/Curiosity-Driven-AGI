@@ -100,13 +100,16 @@ The ideas presented here are deeply connected to the author's published trilogy:
 
 - **Chain of Curiosity: A New Approach to Artificial General Intelligence** (Book 1)  
   Explores the core concept of embedding curiosity as a driver for intelligent systems beyond static reasoning.
+  (https://a.co/d/6irljrE)
 
 - **Quantum Curiosity: The Intersection of Quantum Mechanics and Curiosity-Driven AI** (Book 2)  
   Examines how quantum phenomena like uncertainty and superposition offer models for accelerating curiosity-based exploration in AI.
+  (https://a.co/d/hUYgBv1)
 
 - **Curiosity and Chaos Theory: Bridging the Gap Between Order and Disorder** (Book 3)  
   Investigates how curiosity-driven intelligence can decode complex, chaotic systems and navigate uncertainty with resilience.
-
+  (https://a.co/d/cYMho9k)
+  
 These books establish the **theoretical foundation**, **philosophical principles**, and **practical possibilities** for Chain of Curiosity AGI.
 
 They extend the framework into multidisciplinary frontiers, including quantum mechanics, complexity theory, and systems evolution.
