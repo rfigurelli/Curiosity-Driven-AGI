@@ -21,7 +21,7 @@ The framework complements the previously proposed **Hierarchical Tokens for Stru
 
 ## 📄 Last Version
 
-[Download White Paper (Markdown)](link-to-markdown-or-pdf-here)
+[Download White Paper (Markdown)](https://github.com/rfigurelli/Curiosity-Driven-AGI/blob/main/Chain_of_Curiosity_White_Paper_v1_0.md)
 
 ---
 
